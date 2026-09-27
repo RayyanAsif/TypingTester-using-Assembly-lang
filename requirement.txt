@@ -1,0 +1,4 @@
+Windows
+Visual Studio
+MASM / Microsoft Macro Assembler support
+Required Assembly Language libraries configured in Visual Studio
