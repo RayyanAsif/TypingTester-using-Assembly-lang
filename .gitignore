@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+
+# Executable and debugging files
+*.exe
+*.pdb
+*.ilk
+
+# Intermediate build files
+*.obj
+*.o
+*.tlog
+*.idb
+*.ipch
+*.lastbuildstate
+
+# Visual Studio generated files
+UpgradeLog*.htm
+UpgradeLog*.xml
+Backup*/
